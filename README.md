@@ -24,10 +24,16 @@ A beginner-friendly, console-based Java application for booking, updating, viewi
 
 ---
 
+
 ## 📁 Project Structure
 
-SimpleTicketBookingNoSpring/ │ ├── .idea/ ├── Main.java ├── Ticket.java ├── TicketRepository.java ├── TicketService.java ├── .gitignore └── README.md
-
+SimpleTicketBookingNoSpring/ 
+│
+├── .idea/
+├── Main.java
+├── Ticket.java
+├── TicketRepository.java
+└── TicketService.java
 
 
 
