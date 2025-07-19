@@ -27,3 +27,39 @@ A beginner-friendly, console-based Java application for booking, updating, viewi
 ## 📁 Project Structure
 
 <pre> ## 📁 Project Structure ``` SimpleTicketBookingNoSpring/ ├── Ticket.java # Model class (POJO) for ticket details ├── TicketRepository.java # Simulated database using List<Ticket> ├── TicketService.java # Business logic layer └── Main.java # Entry point to run the app ``` </pre>
+
+
+
+
+
+
+
+
+
+
+
+
+---
+
+## ✅ How It Works
+
+1. `Main.java` creates sample tickets
+2. Calls service methods to:
+   - Book tickets
+   - Display them
+   - Update a ticket
+   - Cancel a ticket
+3. All operations are printed in the console
+
+---
+
+## 📦 How to Run
+
+> ⚠️ Make sure Java is installed.
+
+```bash
+# Compile all classes
+javac *.java
+
+# Run the program
+java Main
