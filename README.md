@@ -22,10 +22,6 @@ A beginner-friendly, console-based Java application for booking, updating, viewi
 - 📚 Java Collections (`ArrayList`)
 - 🚫 No frameworks or databases
 
----
-
-## 📁 Project Structure   SimpleTicketBookingNoSpring/ │ ├── .idea/ ├── Main.java ├── Ticket.java ├── TicketRepository.java  └── TicketService.java 
-
 
 
 ---
